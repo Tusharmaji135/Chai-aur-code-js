@@ -1,1 +1,1 @@
-console.log("ji")
+console.log("all good")
