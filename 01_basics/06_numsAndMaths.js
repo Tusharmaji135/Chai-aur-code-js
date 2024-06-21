@@ -10,7 +10,7 @@ const othernum = 23.5544
 const hundreds = 1000000
 // console.log(hundreds.toLocaleString('en-IN'));//give comma eg:10,00,000
 
-
+let v = 10
 let a = 900719925474099n
 // console.log(typeof a);
 
