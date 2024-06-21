@@ -13,6 +13,7 @@
 
 let someNum =33
 let str = String(someNum)
+<<<<<<< HEAD
 // console.log(typeof str);
 // console.log(str);
 
@@ -37,3 +38,8 @@ const b = ++a;
 
 console.log(`a:${a}, b:${b}`);
 // Expected output: "a:4, b:4"
+=======
+console.log(typeof str);
+console.log(str);
+
+>>>>>>> 7a8a4bd666182ba9bbab12564d48ea4edec83dc4
