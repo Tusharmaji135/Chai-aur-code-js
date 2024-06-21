@@ -1,5 +1,5 @@
 const marvel=["thor","ironman","spiderman"]
-const anime=["luffy","naruto","tanjiro"]
+const anime=["luffy","naruto","eren"]
 
 // marvel.push(anime);
 // console.log(marvel[3][1]);
