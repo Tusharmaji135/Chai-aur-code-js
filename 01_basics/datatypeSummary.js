@@ -34,7 +34,25 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
-console.log(BigInt);
 
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+//********************************************Stack & Heap************************************************* */
+
+
+//Stack(primitive)(copy)
+//Heap(non-primitive)(reference,[original])
+
+
+let u1={
+    email:"djdj@gmail.cp",
+    upi:"jidj@ypl"
+}
+
+let u2 =u1;
+u2.email="tushar@gmail.com"
+
+console.log(u1.email);
+console.log(u2.email);
