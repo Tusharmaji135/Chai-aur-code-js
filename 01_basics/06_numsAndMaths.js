@@ -19,6 +19,8 @@ let a = 900719925474099n
 // // ++++++++++++++++++++++++++++++++++++ MATHS +++++++++++++++++++++++++++++++++++++++++++
 
 
+
+
 // console.log(Math);
 // console.log(Math.abs(-4));//neg to posi
 // console.log(Math.round(55.8));//nround of
